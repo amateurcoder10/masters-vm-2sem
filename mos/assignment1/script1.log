@@ -1,0 +1,26 @@
+Script started on Thursday 02 February 2017 01:42:41 PM IST
+
+pra@pra-VirtualBox:~/2sem/mos$ date
+Thu Feb  2 13:42:44 IST 2017
+
+pra@pra-VirtualBox:~/2sem/mos$ echo author Prashanthi S.K
+author Prashanthi S.K
+
+pra@pra-VirtualBox:~/2sem/mos$ cat args.txt
+40 50
+7 1 2 7 1 4 1 249 14 9 2 14 2 3 14 9 4 14 2 3 14 1 2 6 3 0 0 6 6 2 2 0 3 3 4 4 1 6 9 0 14 2 3 14 8 1 0 0 5 254
+4 5
+
+pra@pra-VirtualBox:~/2sem/mos$ ./evm -s evm1.img <args.txt
+20
+
+pra@pra-VirtualBox:~/2sem/mos$ ./evm -l evm1.img
+6
+7
+42
+
+pra@pra-VirtualBox:~/2sem/mos$ exit
+
+exit
+
+Script done on Thursday 02 February 2017 01:43:16 PM IST

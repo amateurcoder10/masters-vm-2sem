@@ -1,0 +1,16 @@
+tx at 9600,rx at 4800,sending a,on the machine @9600
+a
+0110
+0001
+
+rx
+0000
+0110
+1111
+1110
+
+on the machine at 4800
+
+rx
+1111
+0100

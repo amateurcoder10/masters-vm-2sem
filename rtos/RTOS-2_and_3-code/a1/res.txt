@@ -1,0 +1,8 @@
+ClientID operand1 operator operand2 result
+
+2	+	3	3967	5.000000
+
+23	+	34	3967	57.000000
+
+2	/	3	396767	0.666667
+ClientID operand1 operator operand2 result

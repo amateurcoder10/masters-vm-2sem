@@ -1,0 +1,15 @@
+Script started on Thursday 02 February 2017 01:42:41 PM IST
+]0;pra@pra-VirtualBox: ~/2sem/mos[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/mos[00m$ date
+Thu Feb  2 13:42:44 IST 2017
+]0;pra@pra-VirtualBox: ~/2sem/mos[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/mos[00m$ echo ath[K[Kuthor Prashanthi S.K
+author Prashanthi S.K
+]0;pra@pra-VirtualBox: ~/2sem/mos[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/mos[00m$ ./evm -s evm1.img <args.txt
+20
+]0;pra@pra-VirtualBox: ~/2sem/mos[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/mos[00m$ ./evm -s evm1.img <args.txt[1P[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K
+6
+7
+42
+]0;pra@pra-VirtualBox: ~/2sem/mos[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/mos[00m$ exit
+exit
+
+Script done on Thursday 02 February 2017 01:43:38 PM IST

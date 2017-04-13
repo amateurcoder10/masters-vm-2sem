@@ -1,0 +1,813 @@
+Script started on Tuesday 14 February 2017 10:44:27 AM IST
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ ./sr 3490gcc chatcl.c -o cl[9P./sr 3490[Ksudo python3 baud.[Ktest.py
+[sudo] password for pra: 
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Automatic baud rate checker:Receiving end
+ready to begin
+
+Scanning at  150
+
+Scanning at  300
+Charcter matched! Baud rate found to be 300
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 baudtest.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Automatic baud rate checker:Receiving end
+ready to begin
+
+Scanning at  150
+
+Scanning at  300
+
+Scanning at  600
+Charcter matched! Baud rate found to be 600
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 baudtest.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Automatic baud rate checker:Receiving end
+ready to begin
+
+Scanning at  150
+
+Scanning at  300
+
+Scanning at  600
+Charcter matched! Baud rate found to be 600
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ ud[K[Ksudo python3 finalwout.py
+[sudo] password for pra: 
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+^CTraceback (most recent call last):
+  File "finalwout.py", line 28, in <module>
+    time.sleep(1)    
+KeyboardInterrupt
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalwout.py
+3.5.2 (default, Nov 17 2016, 17:05:23) 
+[GCC 5.4.0 20160609]
+
+Demonstrating M2M communication using RS232
+
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 17
+    if(j%5==0):
+              ^
+TabError: inconsistent use of tabs and spaces in indentation
+]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py[1P finalimage.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kworkon cv
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ workon cvsudo python3 finalimage.py[1P finalimage.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Traceback (most recent call last):
+  File "finalimage.py", line 5, in <module>
+    import cv2
+ImportError: No module named cv2
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ python
+Python 2.7.12 (default, Nov 19 2016, 06:48:10) 
+[GCC 5.4.0 20160609] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+>>> imo[Kport cv2
+>>> exit
+Use exit() or Ctrl-D (i.e. EOF) to exit
+>>> 
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ pythonsudo python finalimage.py
+Traceback (most recent call last):
+  File "finalimage.py", line 5, in <module>
+    import cv2
+ImportError: No module named cv2
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python finalimage.py[C[C[C[C[C[C[C3 finalimage.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+  File "finalimage.py", line 17
+    if(j%5==0):
+              ^
+TabError: inconsistent use of tabs and spaces in indentation
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 17
+    if(j%5==0):
+              ^
+TabError: inconsistent use of tabs and spaces in indentation
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 17
+    if(j%5==0):
+              ^
+TabError: inconsistent use of tabs and spaces in indentation
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 16
+    img[i][j]=255
+                ^
+TabError: inconsistent use of tabs and spaces in indentation
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 25
+    print "Image size is",rows,"*",cols
+                        ^
+SyntaxError: Missing parentheses in call to 'print'
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py
+  File "finalimage.py", line 27
+    print imag
+             ^
+SyntaxError: Missing parentheses in call to 'print'
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Traceback (most recent call last):
+  File "finalimage.py", line 5, in <module>
+    import cv2
+ImportError: No module named 'cv2'
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python3 finalimage.py[1P finalimage.py[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+('Image size is', 11, '*', 11)
+Transmitted a image
+[[255 255 255 255 255 255 255 255 255 255 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255 255 255 255 255 255 255 255 255 255 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255   0   0   0   0 255   0   0   0   0 255]
+ [255 255 255 255 255 255 255 255 255 255 255]]
+Traceback (most recent call last):
+  File "finalimage.py", line 34, in <module>
+    serialPort = Serial("/dev/ttyUSB0", timeout=150)
+  File "/home/pra/.virtualenvs/cv/local/lib/python2.7/site-packages/serial/serialutil.py", line 236, in __init__
+    self.open()
+  File "/home/pra/.virtualenvs/cv/local/lib/python2.7/site-packages/serial/serialposix.py", line 268, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ sudo python finalimage.py
+Traceback (most recent call last):
+  File "finalimage.py", line 5, in <module>
+    import cv2
+ImportError: No module named cv2
+(cv) ]0;pra@pra-VirtualBox: ~/2sem/idc[01;32mpra@pra-VirtualBox[00m:[01;34m~/2sem/idc[00m$ dmesg
+[32m[    0.000000] [0mInitializing cgroup subsys cpuset
+[32m[    0.000000] [0mInitializing cgroup subsys cpu
+[32m[    0.000000] [0mInitializing cgroup subsys cpuacct
+[32m[    0.000000] [0mLinux version 4.4.0-62-generic (buildd@lcy01-30) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.4) ) #83-Ubuntu SMP Wed Jan 18 14:10:15 UTC 2017 (Ubuntu 4.4.0-62.83-generic 4.4.40)
+[32m[    0.000000] [0m[33mCommand line[0m: BOOT_IMAGE=/boot/vmlinuz-4.4.0-62-generic root=UUID=3f98e0e0-ccdf-498d-95c8-43cfd119772e ro quiet splash
+[32m[    0.000000] [0mKERNEL supported cpus:
+[32m[    0.000000] [0m  Intel GenuineIntel
+[32m[    0.000000] [0m  AMD AuthenticAMD
+[32m[    0.000000] [0m  Centaur CentaurHauls
+[32m[    0.000000] [0m[33mx86/fpu[0m: xstate_offset[2]:  576, xstate_sizes[2]:  256
+[32m[    0.000000] [0m[33mx86/fpu[0m: Supporting XSAVE feature 0x01: 'x87 floating point registers'
+[32m[    0.000000] [0m[33mx86/fpu[0m: Supporting XSAVE feature 0x02: 'SSE registers'
+[32m[    0.000000] [0m[33mx86/fpu[0m: Supporting XSAVE feature 0x04: 'AVX registers'
+[32m[    0.000000] [0m[33mx86/fpu[0m: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+[32m[    0.000000] [0m[33mx86/fpu[0m: Using 'lazy' FPU context switches.
+[32m[    0.000000] [0m[33me820[0m: BIOS-provided physical RAM map:
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x0000000000000000-0x000000000009fbff] usable
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x000000000009fc00-0x000000000009ffff] reserved
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x00000000000f0000-0x00000000000fffff] reserved
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x0000000000100000-0x00000000a26effff] usable
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x00000000a26f0000-0x00000000a26fffff] ACPI data
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+[32m[    0.000000] [0m[33mBIOS-e820[0m: [mem 0x00000000fffc0000-0x00000000ffffffff] reserved
+[32m[    0.000000] [0m[33mNX (Execute Disable) protection[0m: active
+[32m[    0.000000] [0mSMBIOS 2.5 present.
+[32m[    0.000000] [0m[33mDMI[0m: innotek GmbH VirtualBox/VirtualBox, BIOS VirtualBox 12/01/2006
+[32m[    0.000000] [0m[33mHypervisor detected[0m: KVM
+[32m[    0.000000] [0m[33me820[0m: update [mem 0x00000000-0x00000fff] usable ==> reserved
+[32m[    0.000000] [0m[33me820[0m: remove [mem 0x000a0000-0x000fffff] usable
+[32m[    0.000000] [0m[33me820[0m: last_pfn = 0xa26f0 max_arch_pfn = 0x400000000
+[32m[    0.000000] [0m[33mMTRR default type[0m: uncachable
+[32m[    0.000000] [0mMTRR variable ranges disabled:
+[32m[    0.000000] [0m[33mMTRR[0m: Disabled
+[32m[    0.000000] [0m[33mx86/PAT[0m: MTRRs disabled, skipping PAT initialization too.
+[32m[    0.000000] [0m[33mx86/PAT[0m: Configuration [0-7]: WB  WT  UC- UC  WB  WT  UC- UC  
+[32m[    0.000000] [0mCPU MTRRs all blank - virtualized system.
+[32m[    0.000000] [0mfound SMP MP-table at [mem 0x0009fff0-0x0009ffff] mapped at [ffff88000009fff0]
+[32m[    0.000000] [0mScanning 1 areas for low memory corruption
+[32m[    0.000000] [0mBase memory trampoline at [ffff880000099000] 99000 size 24576
+[32m[    0.000000] [0mBRK [0x0220b000, 0x0220bfff] PGTABLE
+[32m[    0.000000] [0mBRK [0x0220c000, 0x0220cfff] PGTABLE
+[32m[    0.000000] [0mBRK [0x0220d000, 0x0220dfff] PGTABLE
+[32m[    0.000000] [0mBRK [0x0220e000, 0x0220efff] PGTABLE
+[32m[    0.000000] [0mBRK [0x0220f000, 0x0220ffff] PGTABLE
+[32m[    0.000000] [0m[33mRAMDISK[0m: [mem 0x337c0000-0x35bd7fff]
+[32m[    0.000000] [0m[33mACPI[0m: Early table checksum verification disabled
+[32m[    0.000000] [0m[33mACPI[0m[1m: RSDP 0x00000000000E0000 000024 (v02 VBOX  )[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: XSDT 0x00000000A26F0030 00003C (v01 VBOX   VBOXXSDT 00000001 ASL  00000061)[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: FACP 0x00000000A26F00F0 0000F4 (v04 VBOX   VBOXFACP 00000001 ASL  00000061)[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: DSDT 0x00000000A26F0470 00210F (v01 VBOX   VBOXBIOS 00000002 INTL 20100528)[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: FACS 0x00000000A26F0200 000040[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: FACS 0x00000000A26F0200 000040[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: APIC 0x00000000A26F0240 000054 (v02 VBOX   VBOXAPIC 00000001 ASL  00000061)[0m
+[32m[    0.000000] [0m[33mACPI[0m[1m: SSDT 0x00000000A26F02A0 0001CC (v01 VBOX   VBOXCPUT 00000002 INTL 20100528)[0m
+[32m[    0.000000] [0m[33mACPI[0m: Local APIC address 0xfee00000
+[32m[    0.000000] [0mNo NUMA configuration found
+[32m[    0.000000] [0mFaking a node at [mem 0x0000000000000000-0x00000000a26effff]
+[32m[    0.000000] [0mNODE_DATA(0) allocated [mem 0xa26eb000-0xa26effff]
+[32m[    0.000000] [0m[33mkvm-clock[0m: Using msrs 4b564d01 and 4b564d00
+[32m[    0.000000] [0m[33mkvm-clock[0m: cpu 0, msr 0:a26e3001, primary cpu clock
+[32m[    0.000000] [0m[33mkvm-clock[0m: using sched offset of 4120396517 cycles
+[32m[    0.000000] [0m[33mclocksource[0m: kvm-clock: mask: 0xffffffffffffffff max_cycles: 0x1cd42e4dffb, max_idle_ns: 881590591483 ns
+[32m[    0.000000] [0mZone ranges:
+[32m[    0.000000] [0m  DMA      [mem 0x0000000000001000-0x0000000000ffffff]
+[32m[    0.000000] [0m  DMA32    [mem 0x0000000001000000-0x00000000a26effff]
+[32m[    0.000000] [0m  Normal   empty
+[32m[    0.000000] [0m  Device   empty
+[32m[    0.000000] [0mMovable zone start for each node
+[32m[    0.000000] [0mEarly memory node ranges
+[32m[    0.000000] [0m[33m  node   0[0m: [mem 0x0000000000001000-0x000000000009efff]
+[32m[    0.000000] [0m[33m  node   0[0m: [mem 0x0000000000100000-0x00000000a26effff]
+[32m[    0.000000] [0mInitmem setup node 0 [mem 0x0000000000001000-0x00000000a26effff]
+[32m[    0.000000] [0m[33mOn node 0 totalpages[0m: 665230
+[32m[    0.000000] [0m[33m  DMA zone[0m: 64 pages used for memmap
+[32m[    0.000000] [0m[33m  DMA zone[0m: 21 pages reserved
+[32m[    0.000000] [0m[33m  DMA zone[0m: 3998 pages, LIFO batch:0
+[32m[    0.000000] [0m[33m  DMA32 zone[0m: 10332 pages used for memmap
+[32m[    0.000000] [0m[33m  DMA32 zone[0m: 661232 pages, LIFO batch:31
+[32m[    0.000000] [0m[33mACPI[0m: PM-Timer IO Port: 0x4008
+[32m[    0.000000] [0m[33mACPI[0m: Local APIC address 0xfee00000
+[32m[    0.000000] [0m[33mIOAPIC[0][0m: apic_id 1, version 32, address 0xfec00000, GSI 0-23
+[32m[    0.000000] [0m[33mACPI[0m: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[32m[    0.000000] [0m[33mACPI[0m: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[32m[    0.000000] [0m[33mACPI[0m: IRQ0 used by override.
+[32m[    0.000000] [0m[33mACPI[0m: IRQ9 used by override.
+[32m[    0.000000] [0mUsing ACPI (MADT) for SMP configuration information
+[32m[    0.000000] [0m[33msmpboot[0m: Allowing 1 CPUs, 0 hotplug CPUs
+[32m[    0.000000] [0m[33mPM[0m: Registered nosave memory: [mem 0x00000000-0x00000fff]
+[32m[    0.000000] [0m[33mPM[0m: Registered nosave memory: [mem 0x0009f000-0x0009ffff]
+[32m[    0.000000] [0m[33mPM[0m: Registered nosave memory: [mem 0x000a0000-0x000effff]
+[32m[    0.000000] [0m[33mPM[0m: Registered nosave memory: [mem 0x000f0000-0x000fffff]
+[32m[    0.000000] [0m[33me820[0m: [mem 0xa2700000-0xfebfffff] available for PCI devices
+[32m[    0.000000] [0mBooting paravirtualized kernel on KVM
+[32m[    0.000000] [0m[33mclocksource[0m: refined-jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645519600211568 ns
+[32m[    0.000000] [0m[33msetup_percpu[0m: NR_CPUS:512 nr_cpumask_bits:512 nr_cpu_ids:1 nr_node_ids:1
+[32m[    0.000000] [0m[33mPERCPU[0m: Embedded 33 pages/cpu @ffff8800a2200000 s98264 r8192 d28712 u2097152
+[32m[    0.000000] [0m[33mpcpu-alloc[0m: s98264 r8192 d28712 u2097152 alloc=1*2097152
+[32m[    0.000000] [0m[33mpcpu-alloc[0m: [0] 0 
+[32m[    0.000000] [0m[33mPV qspinlock hash table entries[0m: 256 (order: 0, 4096 bytes)
+[32m[    0.000000] [0m[33mBuilt 1 zonelists in Node order, mobility grouping on.  Total pages[0m: 654813
+[32m[    0.000000] [0m[33mPolicy zone[0m: DMA32
+[32m[    0.000000] [0m[33mKernel command line[0m: BOOT_IMAGE=/boot/vmlinuz-4.4.0-62-generic root=UUID=3f98e0e0-ccdf-498d-95c8-43cfd119772e ro quiet splash
+[32m[    0.000000] [0m[33mPID hash table entries[0m: 4096 (order: 3, 32768 bytes)
+[32m[    0.000000] [0m[33mCalgary[0m: detecting Calgary via BIOS EBDA area
+[32m[    0.000000] [0m[33mCalgary[0m: Unable to locate Rio Grande table in EBDA - bailing!
+[32m[    0.000000] [0m[33mMemory[0m: 2561932K/2660920K available (8436K kernel code, 1291K rwdata, 3960K rodata, 1488K init, 1316K bss, 98988K reserved, 0K cma-reserved)
+[32m[    0.000000] [0m[33mSLUB[0m: HWalign=64, Order=0-3, MinObjects=0, CPUs=1, Nodes=1
+[32m[    0.000000] [0mHierarchical RCU implementation.
+[32m[    0.000000] [0m	Build-time adjustment of leaf fanout to 64.
+[32m[    0.000000] [0m	RCU restricting CPUs from NR_CPUS=512 to nr_cpu_ids=1.
+[32m[    0.000000] [0m[33mRCU[0m: Adjusting geometry for rcu_fanout_leaf=64, nr_cpu_ids=1
+[32m[    0.000000] [0mNR_IRQS:33024 nr_irqs:256 16
+[32m[    0.000000] [0m[33mConsole[0m: colour VGA+ 80x25
+[32m[    0.000000] [0mconsole [tty0] enabled
+[32m[    0.000000] [0m[33mtsc[0m: Detected 2194.918 MHz processor
+[32m[    0.057365] [0mCalibrating delay loop (skipped) preset value.. 4389.83 BogoMIPS (lpj=8779672)
+[32m[    0.057369] [0m[33mpid_max[0m: default: 32768 minimum: 301
+[32m[    0.057375] [0m[33mACPI[0m: Core revision 20150930
+[32m[    0.058625] [0m[33mACPI[0m[1m: 2 ACPI AML tables successfully acquired and loaded[0m
+[32m[    0.058645] [0mSecurity Framework initialized
+[32m[    0.058647] [0m[33mYama[0m: becoming mindful.
+[32m[    0.058662] [0m[33mAppArmor[0m: AppArmor initialized
+[32m[    0.059495] [0m[33mDentry cache hash table entries[0m: 524288 (order: 10, 4194304 bytes)
+[32m[    0.061008] [0m[33mInode-cache hash table entries[0m: 262144 (order: 9, 2097152 bytes)
+[32m[    0.061362] [0m[33mMount-cache hash table entries[0m: 8192 (order: 4, 65536 bytes)
+[32m[    0.061369] [0m[33mMountpoint-cache hash table entries[0m: 8192 (order: 4, 65536 bytes)
+[32m[    0.061693] [0mInitializing cgroup subsys io
+[32m[    0.061699] [0mInitializing cgroup subsys memory
+[32m[    0.061707] [0mInitializing cgroup subsys devices
+[32m[    0.061710] [0mInitializing cgroup subsys freezer
+[32m[    0.061712] [0mInitializing cgroup subsys net_cls
+[32m[    0.061714] [0mInitializing cgroup subsys perf_event
+[32m[    0.061717] [0mInitializing cgroup subsys net_prio
+[32m[    0.061721] [0mInitializing cgroup subsys hugetlb
+[32m[    0.061723] [0mInitializing cgroup subsys pids
+[32m[    0.061817] [0m[33mCPU[0m: Physical Processor ID: 0
+[32m[    0.063172] [0m[33mmce[0m: CPU supports 0 MCE banks
+[32m[    0.063220] [0m[33mprocess[0m: using mwait in idle threads
+[32m[    0.063232] [0m[33mLast level iTLB entries[0m: 4KB 64, 2MB 8, 4MB 8
+[32m[    0.063234] [0m[33mLast level dTLB entries[0m: 4KB 64, 2MB 0, 4MB 0, 1GB 4
+[32m[    0.080867] [0m[33mFreeing SMP alternatives memory[0m: 32K (ffffffff820b8000 - ffffffff820c0000)
+[32m[    0.089919] [0m[33mftrace[0m: allocating 32065 entries in 126 pages
+[32m[    0.133447] [0m[33msmpboot[0m: APIC(0) Converting physical 0 to logical package 0
+[32m[    0.133449] [0m[33msmpboot[0m: Max logical packages: 1
+[32m[    0.133736] [0mx2apic enabled
+[32m[    0.133962] [0mSwitched APIC routing to physical x2apic.
+[32m[    0.135117] [0m[33m..TIMER[0m: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[32m[    0.242273] [0m[33mAPIC calibration not consistent with PM-Timer[0m[1m: 101ms instead of 100ms[0m
+[32m[    0.242276] [0m[33mAPIC delta adjusted to PM-Timer[0m: 6249997 (6320328)
+[32m[    0.242339] [0m[33msmpboot[0m: CPU0: Intel(R) Core(TM) i5-5200U CPU @ 2.20GHz (family: 0x6, model: 0x3d, stepping: 0x4)
+[32m[    0.242350] [0m[33mPerformance Events[0m: unsupported p6 CPU model 61 no PMU driver, software events only.
+[32m[    0.242382] [0mKVM setup paravirtual spinlock
+[32m[    0.243058] [0m[33mx86[0m: Booted up 1 node, 1 CPUs
+[32m[    0.243060] [0m[33msmpboot[0m: Total of 1 processors activated (4389.83 BogoMIPS)
+[32m[    0.243953] [0m[33mdevtmpfs[0m: initialized
+[32m[    0.246002] [0m[33mevm[0m: security.selinux
+[32m[    0.246003] [0m[33mevm[0m: security.SMACK64
+[32m[    0.246004] [0m[33mevm[0m: security.SMACK64EXEC
+[32m[    0.246005] [0m[33mevm[0m: security.SMACK64TRANSMUTE
+[32m[    0.246006] [0m[33mevm[0m: security.SMACK64MMAP
+[32m[    0.246008] [0m[33mevm[0m: security.ima
+[32m[    0.246009] [0m[33mevm[0m: security.capability
+[32m[    0.246106] [0m[33mclocksource[0m: jiffies: mask: 0xffffffff max_cycles: 0xffffffff, max_idle_ns: 7645041785100000 ns
+[32m[    0.246167] [0m[33mpinctrl core[0m: initialized pinctrl subsystem
+[32m[    0.246267] [0m[33mRTC time[0m:  5:41:14, date: 02/13/17
+[32m[    0.246392] [0m[33mNET[0m: Registered protocol family 16
+[32m[    0.246561] [0m[33mcpuidle[0m: using governor ladder
+[32m[    0.246563] [0m[33mcpuidle[0m: using governor menu
+[32m[    0.246566] [0m[1mPCCT header not found.[0m
+[32m[    0.246651] [0m[33mACPI[0m: bus type PCI registered
+[32m[    0.246653] [0m[33macpiphp[0m: ACPI Hot Plug PCI Controller Driver version: 0.5
+[32m[    0.246742] [0m[33mPCI[0m: Using configuration type 1 for base access
+[32m[    0.247827] [0m[33mACPI[0m: Added _OSI(Module Device)
+[32m[    0.247829] [0m[33mACPI[0m: Added _OSI(Processor Device)
+[32m[    0.247830] [0m[33mACPI[0m: Added _OSI(3.0 _SCP Extensions)
+[32m[    0.247831] [0m[33mACPI[0m: Added _OSI(Processor Aggregator Device)
+[32m[    0.248366] [0m[33mACPI[0m[1m: Executed 1 blocks of module-level executable AML code[0m
+[32m[    0.250107] [0m[33mACPI[0m: Interpreter enabled
+[32m[    0.250115] [0m[33mACPI[0m: (supports S0 S5)
+[32m[    0.250116] [0m[33mACPI[0m: Using IOAPIC for interrupt routing
+[32m[    0.250239] [0m[33mPCI[0m: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[32m[    0.253389] [0m[33mACPI[0m: PCI Root Bridge [PCI0] (domain 0000 [bus 00-ff])
+[32m[    0.253393] [0m[33macpi PNP0A03:00[0m: _OSC: OS supports [ASPM ClockPM Segments MSI]
+[32m[    0.253397] [0m[33macpi PNP0A03:00[0m: _OSC failed (AE_NOT_FOUND); disabling ASPM
+[32m[    0.253403] [0m[33macpi PNP0A03:00[0m[1m: fail to add MMCONFIG information, can't access extended PCI configuration space under this bridge.
+[0m[32m[    0.253651] [0mPCI host bridge to bus 0000:00
+[32m[    0.253653] [0m[33mpci_bus 0000:00[0m: root bus resource [io  0x0000-0x0cf7 window]
+[32m[    0.253655] [0m[33mpci_bus 0000:00[0m: root bus resource [io  0x0d00-0xffff window]
+[32m[    0.253656] [0m[33mpci_bus 0000:00[0m: root bus resource [mem 0x000a0000-0x000bffff window]
+[32m[    0.253658] [0m[33mpci_bus 0000:00[0m: root bus resource [mem 0xa2700000-0xffdfffff window]
+[32m[    0.253659] [0m[33mpci_bus 0000:00[0m: root bus resource [bus 00-ff]
+[32m[    0.253694] [0m[33mpci 0000:00:00.0[0m: [8086:1237] type 00 class 0x060000
+[32m[    0.254133] [0m[33mpci 0000:00:01.0[0m: [8086:7000] type 00 class 0x060100
+[32m[    0.254755] [0m[33mpci 0000:00:01.1[0m: [8086:7111] type 00 class 0x01018a
+[32m[    0.255099] [0m[33mpci 0000:00:01.1[0m: reg 0x20: [io  0xd000-0xd00f]
+[32m[    0.255242] [0m[33mpci 0000:00:01.1[0m: legacy IDE quirk: reg 0x10: [io  0x01f0-0x01f7]
+[32m[    0.255243] [0m[33mpci 0000:00:01.1[0m: legacy IDE quirk: reg 0x14: [io  0x03f6]
+[32m[    0.255244] [0m[33mpci 0000:00:01.1[0m: legacy IDE quirk: reg 0x18: [io  0x0170-0x0177]
+[32m[    0.255246] [0m[33mpci 0000:00:01.1[0m: legacy IDE quirk: reg 0x1c: [io  0x0376]
+[32m[    0.255441] [0m[33mpci 0000:00:02.0[0m: [80ee:beef] type 00 class 0x030000
+[32m[    0.257855] [0m[33mpci 0000:00:02.0[0m: reg 0x10: [mem 0xe0000000-0xe0ffffff pref]
+[32m[    0.280252] [0m[33mpci 0000:00:03.0[0m: [8086:100e] type 00 class 0x020000
+[32m[    0.282841] [0m[33mpci 0000:00:03.0[0m: reg 0x10: [mem 0xf0000000-0xf001ffff]
+[32m[    0.288520] [0m[33mpci 0000:00:03.0[0m: reg 0x18: [io  0xd010-0xd017]
+[32m[    0.299964] [0m[33mpci 0000:00:04.0[0m: [80ee:cafe] type 00 class 0x088000
+[32m[    0.302523] [0m[33mpci 0000:00:04.0[0m: reg 0x10: [io  0xd020-0xd03f]
+[32m[    0.305453] [0m[33mpci 0000:00:04.0[0m: reg 0x14: [mem 0xf0400000-0xf07fffff]
+[32m[    0.308529] [0m[33mpci 0000:00:04.0[0m: reg 0x18: [mem 0xf0800000-0xf0803fff pref]
+[32m[    0.319878] [0m[33mpci 0000:00:05.0[0m: [8086:2415] type 00 class 0x040100
+[32m[    0.320068] [0m[33mpci 0000:00:05.0[0m: reg 0x10: [io  0xd100-0xd1ff]
+[32m[    0.320130] [0m[33mpci 0000:00:05.0[0m: reg 0x14: [io  0xd200-0xd23f]
+[32m[    0.320661] [0m[33mpci 0000:00:06.0[0m: [106b:003f] type 00 class 0x0c0310
+[32m[    0.322997] [0m[33mpci 0000:00:06.0[0m: reg 0x10: [mem 0xf0804000-0xf0804fff]
+[32m[    0.336491] [0m[33mpci 0000:00:07.0[0m: [8086:7113] type 00 class 0x068000
+[32m[    0.337232] [0m[33mpci 0000:00:0d.0[0m: [8086:2829] type 00 class 0x010601
+[32m[    0.339493] [0m[33mpci 0000:00:0d.0[0m: reg 0x10: [io  0xd240-0xd247]
+[32m[    0.344541] [0m[33mpci 0000:00:0d.0[0m: reg 0x18: [io  0xd250-0xd257]
+[32m[    0.348901] [0m[33mpci 0000:00:0d.0[0m: reg 0x20: [io  0xd260-0xd26f]
+[32m[    0.351118] [0m[33mpci 0000:00:0d.0[0m: reg 0x24: [mem 0xf0806000-0xf0807fff]
+[32m[    0.354555] [0m[33mACPI[0m: PCI Interrupt Link [LNKA] (IRQs 5 9 10 *11)
+[32m[    0.354731] [0m[33mACPI[0m: PCI Interrupt Link [LNKB] (IRQs 5 9 10 *11)
+[32m[    0.354799] [0m[33mACPI[0m: PCI Interrupt Link [LNKC] (IRQs 5 9 *10 11)
+[32m[    0.354867] [0m[33mACPI[0m: PCI Interrupt Link [LNKD] (IRQs 5 *9 10 11)
+[32m[    0.354973] [0m[33mACPI[0m[1m: Enabled 2 GPEs in block 00 to 07[0m
+[32m[    0.355187] [0m[33mvgaarb[0m: setting as boot device: PCI:0000:00:02.0
+[32m[    0.355189] [0m[33mvgaarb[0m: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+[32m[    0.355191] [0m[33mvgaarb[0m: loaded
+[32m[    0.355192] [0m[33mvgaarb[0m: bridge control possible 0000:00:02.0
+[32m[    0.355398] [0mSCSI subsystem initialized
+[32m[    0.355436] [0mlibata version 3.00 loaded.
+[32m[    0.355456] [0m[33mACPI[0m: bus type USB registered
+[32m[    0.355470] [0m[33musbcore[0m: registered new interface driver usbfs
+[32m[    0.355477] [0m[33musbcore[0m: registered new interface driver hub
+[32m[    0.355485] [0m[33musbcore[0m: registered new device driver usb
+[32m[    0.355586] [0m[33mPCI[0m: Using ACPI for IRQ routing
+[32m[    0.355588] [0m[33mPCI[0m: pci_cache_line_size set to 64 bytes
+[32m[    0.355747] [0m[33me820[0m: reserve RAM buffer [mem 0x0009fc00-0x0009ffff]
+[32m[    0.355749] [0m[33me820[0m: reserve RAM buffer [mem 0xa26f0000-0xa3ffffff]
+[32m[    0.355852] [0m[33mNetLabel[0m: Initializing
+[32m[    0.355853] [0m[33mNetLabel[0m:  domain hash size = 128
+[32m[    0.355854] [0m[33mNetLabel[0m:  protocols = UNLABELED CIPSOv4
+[32m[    0.355865] [0m[33mNetLabel[0m:  unlabeled traffic allowed by default
+[32m[    0.355925] [0m[33mamd_nb[0m: Cannot enumerate AMD northbridges
+[32m[    0.355933] [0m[33mclocksource[0m: Switched to clocksource kvm-clock
+[32m[    0.362440] [0m[33mAppArmor[0m: AppArmor Filesystem Enabled
+[32m[    0.362502] [0m[33mpnp[0m: PnP ACPI init
+[32m[    0.362564] [0m[33mpnp 00:00[0m: Plug and Play ACPI device, IDs PNP0303 (active)
+[32m[    0.362629] [0m[33mpnp 00:01[0m: Plug and Play ACPI device, IDs PNP0f03 (active)
+[32m[    0.363242] [0m[33mpnp[0m: PnP ACPI: found 2 devices
+[32m[    0.368836] [0m[33mclocksource[0m: acpi_pm: mask: 0xffffff max_cycles: 0xffffff, max_idle_ns: 2085701024 ns
+[32m[    0.368859] [0m[33mpci_bus 0000:00[0m: resource 4 [io  0x0000-0x0cf7 window]
+[32m[    0.368861] [0m[33mpci_bus 0000:00[0m: resource 5 [io  0x0d00-0xffff window]
+[32m[    0.368862] [0m[33mpci_bus 0000:00[0m: resource 6 [mem 0x000a0000-0x000bffff window]
+[32m[    0.368864] [0m[33mpci_bus 0000:00[0m: resource 7 [mem 0xa2700000-0xffdfffff window]
+[32m[    0.368891] [0m[33mNET[0m: Registered protocol family 2
+[32m[    0.369023] [0m[33mTCP established hash table entries[0m: 32768 (order: 6, 262144 bytes)
+[32m[    0.369071] [0m[33mTCP bind hash table entries[0m: 32768 (order: 7, 524288 bytes)
+[32m[    0.369746] [0m[33mTCP[0m: Hash tables configured (established 32768 bind 32768)
+[32m[    0.369768] [0m[33mUDP hash table entries[0m: 2048 (order: 4, 65536 bytes)
+[32m[    0.369793] [0m[33mUDP-Lite hash table entries[0m: 2048 (order: 4, 65536 bytes)
+[32m[    0.369855] [0m[33mNET[0m: Registered protocol family 1
+[32m[    0.369866] [0m[33mpci 0000:00:00.0[0m: Limiting direct PCI/PCI transfers
+[32m[    0.369892] [0m[33mpci 0000:00:01.0[0m: Activating ISA DMA hang workarounds
+[32m[    0.369920] [0m[33mpci 0000:00:02.0[0m: Video device with shadowed ROM
+[32m[    0.371088] [0m[33mPCI[0m: CLS 0 bytes, default 64
+[32m[    0.371128] [0mTrying to unpack rootfs image as initramfs...
+[32m[    1.015498] [0m[33mFreeing initrd memory[0m: 36960K (ffff8800337c0000 - ffff880035bd8000)
+[32m[    1.015593] [0mRAPL PMU detected, API unit is 2^-32 Joules, 4 fixed counters 10737418240 ms ovfl timer
+[32m[    1.015595] [0mhw unit of domain pp0-core 2^-0 Joules
+[32m[    1.015596] [0mhw unit of domain package 2^-0 Joules
+[32m[    1.015597] [0mhw unit of domain dram 2^-0 Joules
+[32m[    1.015598] [0mhw unit of domain pp1-gpu 2^-0 Joules
+[32m[    1.015646] [0m[33mplatform rtc_cmos[0m: registered platform RTC device (no PNP device found)
+[32m[    1.015725] [0mScanning for low memory corruption every 60 seconds
+[32m[    1.016052] [0m[33mfutex hash table entries[0m: 256 (order: 2, 16384 bytes)
+[32m[    1.016073] [0m[33maudit[0m: initializing netlink subsys (disabled)
+[32m[    1.016087] [0m[33maudit[0m: type=2000 audit(1486964480.920:1): initialized
+[32m[    1.016382] [0mInitialise system trusted keyring
+[32m[    1.016468] [0mHugeTLB registered 2 MB page size, pre-allocated 0 pages
+[32m[    1.017774] [0m[33mzbud[0m: loaded
+[32m[    1.017932] [0m[33mVFS[0m: Disk quotas dquot_6.6.0
+[32m[    1.017998] [0m[33mVFS[0m: Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[32m[    1.018207] [0m[33msquashfs[0m: version 4.0 (2009/01/31) Phillip Lougher
+[32m[    1.019027] [0mfuse init (API version 7.23)
+[32m[    1.019187] [0mKey type big_key registered
+[32m[    1.019213] [0mAllocating IMA MOK and blacklist keyrings.
+[32m[    1.019424] [0mKey type asymmetric registered
+[32m[    1.019427] [0mAsymmetric key parser 'x509' registered
+[32m[    1.019471] [0mBlock layer SCSI generic (bsg) driver version 0.4 loaded (major 249)
+[32m[    1.019491] [0mio scheduler noop registered
+[32m[    1.019494] [0mio scheduler deadline registered (default)
+[32m[    1.019518] [0mio scheduler cfq registered
+[32m[    1.019597] [0m[33mpci_hotplug[0m: PCI Hot Plug PCI Core version: 0.5
+[32m[    1.019601] [0m[33mpciehp[0m: PCI Express Hot Plug Controller Driver version: 0.4
+[32m[    1.019739] [0m[33mACPI[0m: AC Adapter [AC] (off-line)
+[32m[    1.019784] [0m[33minput[0m: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input0
+[32m[    1.019786] [0m[33mACPI[0m: Power Button [PWRF]
+[32m[    1.019848] [0m[33minput[0m: Sleep Button as /devices/LNXSYSTM:00/LNXSLPBN:00/input/input1
+[32m[    1.019850] [0m[33mACPI[0m: Sleep Button [SLPF]
+[32m[    1.019984] [0m[33mGHES[0m: HEST is not enabled!
+[32m[    1.020600] [0m[33mACPI[0m: Battery Slot [BAT0] (battery present)
+[32m[    1.020638] [0m[33mSerial[0m: 8250/16550 driver, 32 ports, IRQ sharing enabled
+[32m[    1.021600] [0mLinux agpgart interface v0.103
+[32m[    1.023209] [0m[33mbrd[0m: module loaded
+[32m[    1.023969] [0m[33mloop[0m: module loaded
+[32m[    1.024084] [0m[33mata_piix 0000:00:01.1[0m: version 2.13
+[32m[    1.024470] [0m[33mscsi host0[0m: ata_piix
+[32m[    1.024522] [0m[33mscsi host1[0m: ata_piix
+[32m[    1.024549] [0m[33mata1[0m: PATA max UDMA/33 cmd 0x1f0 ctl 0x3f6 bmdma 0xd000 irq 14
+[32m[    1.024550] [0m[33mata2[0m: PATA max UDMA/33 cmd 0x170 ctl 0x376 bmdma 0xd008 irq 15
+[32m[    1.024618] [0m[33mlibphy[0m: Fixed MDIO Bus: probed
+[32m[    1.024621] [0m[33mtun[0m: Universal TUN/TAP device driver, 1.6
+[32m[    1.024622] [0m[33mtun[0m: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[32m[    1.024976] [0mPPP generic driver version 2.4.2
+[32m[    1.025043] [0m[33mehci_hcd[0m: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[32m[    1.025047] [0m[33mehci-pci[0m: EHCI PCI platform driver
+[32m[    1.025058] [0m[33mehci-platform[0m: EHCI generic platform driver
+[32m[    1.025066] [0m[33mohci_hcd[0m: USB 1.1 'Open' Host Controller (OHCI) Driver
+[32m[    1.025069] [0m[33mohci-pci[0m: OHCI PCI platform driver
+[32m[    1.025498] [0m[33mohci-pci 0000:00:06.0[0m: OHCI PCI host controller
+[32m[    1.025504] [0m[33mohci-pci 0000:00:06.0[0m: new USB bus registered, assigned bus number 1
+[32m[    1.025567] [0m[33mohci-pci 0000:00:06.0[0m: irq 22, io mem 0xf0804000
+[32m[    1.084099] [0m[33musb usb1[0m: New USB device found, idVendor=1d6b, idProduct=0001
+[32m[    1.084108] [0m[33musb usb1[0m: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[32m[    1.084114] [0m[33musb usb1[0m: Product: OHCI PCI host controller
+[32m[    1.084120] [0m[33musb usb1[0m: Manufacturer: Linux 4.4.0-62-generic ohci_hcd
+[32m[    1.084124] [0m[33musb usb1[0m: SerialNumber: 0000:00:06.0
+[32m[    1.084424] [0m[33mhub 1-0:1.0[0m: USB hub found
+[32m[    1.084460] [0m[33mhub 1-0:1.0[0m: 12 ports detected
+[32m[    1.085599] [0m[33mohci-platform[0m: OHCI generic platform driver
+[32m[    1.085670] [0m[33muhci_hcd[0m: USB Universal Host Controller Interface driver
+[32m[    1.085834] [0m[33mi8042[0m: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f03:PS2M] at 0x60,0x64 irq 1,12
+[32m[    1.086931] [0m[33mserio[0m: i8042 KBD port at 0x60,0x64 irq 1
+[32m[    1.086943] [0m[33mserio[0m: i8042 AUX port at 0x60,0x64 irq 12
+[32m[    1.087277] [0m[33mmousedev[0m: PS/2 mouse device common for all mice
+[32m[    1.087990] [0m[33minput[0m: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input2
+[32m[    1.088976] [0m[33mrtc_cmos rtc_cmos[0m: rtc core: registered rtc_cmos as rtc0
+[32m[    1.089146] [0m[33mrtc_cmos rtc_cmos[0m: alarms up to one day, 114 bytes nvram
+[32m[    1.089166] [0mi2c /dev entries driver
+[32m[    1.089358] [0m[33mdevice-mapper[0m: uevent: version 1.0.3
+[32m[    1.089627] [0m[33mdevice-mapper[0m: ioctl: 4.34.0-ioctl (2015-10-28) initialised: dm-devel@redhat.com
+[32m[    1.089668] [0m[33mledtrig-cpu[0m: registered to indicate activity on CPUs
+[32m[    1.090446] [0m[33mNET[0m: Registered protocol family 10
+[32m[    1.090910] [0m[33mNET[0m: Registered protocol family 17
+[32m[    1.090940] [0mKey type dns_resolver registered
+[32m[    1.091261] [0m[33mmicrocode[0m: CPU0 sig=0x306d4, pf=0x40, revision=0x0
+[32m[    1.091334] [0m[33mmicrocode[0m: Microcode Update Driver: v2.01 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+[32m[    1.091754] [0mregistered taskstats version 1
+[32m[    1.091809] [0mLoading compiled-in X.509 certificates
+[32m[    1.094146] [0m[33mLoaded X.509 cert 'Build time autogenerated kernel key[0m: a630254739635d6fdc487c9f0afa5d9a0ff04f04'
+[32m[    1.094192] [0m[33mzswap[0m: loaded using pool lzo/zbud
+[32m[    1.098673] [0mKey type trusted registered
+[32m[    1.107228] [0mKey type encrypted registered
+[32m[    1.107263] [0m[33mAppArmor[0m: AppArmor sha1 policy hashing enabled
+[32m[    1.107277] [0m[33mima[0m: No TPM chip found, activating TPM-bypass!
+[32m[    1.107331] [0m[33mevm[0m: HMAC attrs: 0x1
+[32m[    1.108302] [0m[33m  Magic number[0m: 5:611:668
+[32m[    1.108480] [0m[33mrtc_cmos rtc_cmos[0m: setting system clock to 2017-02-13 05:41:15 UTC (1486964475)
+[32m[    1.108623] [0mBIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+[32m[    1.108626] [0mEDD information not available.
+[32m[    1.108748] [0m[33mPM[0m: Hibernation image not present or could not be loaded.
+[32m[    1.181586] [0m[33mata2.00[0m: ATAPI: VBOX CD-ROM, 1.0, max UDMA/133
+[32m[    1.182335] [0m[33mata2.00[0m: configured for UDMA/33
+[32m[    1.183208] [0m[33mscsi 1:0:0:0[0m: CD-ROM            VBOX     CD-ROM           1.0  PQ: 0 ANSI: 5
+[32m[    1.184689] [0m[33msr 1:0:0:0[0m: [sr0] scsi3-mmc drive: 32x/32x xa/form2 tray
+[32m[    1.184695] [0m[33mcdrom[0m: Uniform CD-ROM driver Revision: 3.20
+[32m[    1.184989] [0m[33msr 1:0:0:0[0m: Attached scsi CD-ROM sr0
+[32m[    1.185300] [0m[33msr 1:0:0:0[0m: Attached scsi generic sg0 type 5
+[32m[    1.188827] [0m[33mFreeing unused kernel memory[0m: 1488K (ffffffff81f44000 - ffffffff820b8000)
+[32m[    1.188833] [0m[33mWrite protecting the kernel read-only data[0m: 14336k
+[32m[    1.190224] [0m[33mFreeing unused kernel memory[0m: 1792K (ffff880001840000 - ffff880001a00000)
+[32m[    1.191233] [0m[33mFreeing unused kernel memory[0m: 136K (ffff880001dde000 - ffff880001e00000)
+[32m[    1.217553] [0m[33mrandom[0m: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.217728] [0m[33mrandom[0m: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.217762] [0m[33mrandom[0m: systemd-udevd: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.220898] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221078] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221279] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221406] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221534] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221656] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.221775] [0m[33mrandom[0m: udevadm: uninitialized urandom read (16 bytes read, 1 bits of entropy available)
+[32m[    1.264715] [0m[33mACPI[0m: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+[32m[    1.264769] [0m[33minput[0m: Video Bus as /devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input4
+[32m[    1.267167] [0mFUJITSU Extended Socket Network Device Driver - version 1.0 - Copyright (c) 2015 FUJITSU LIMITED
+[32m[    1.308249] [0m[33me1000[0m: Intel(R) PRO/1000 Network Driver - version 7.3.21-k8-NAPI
+[32m[    1.308251] [0m[33me1000[0m: Copyright (c) 1999-2006 Intel Corporation.
+[32m[    1.313422] [0m[drm] Initialized drm 1.1.0 20060810
+[32m[    1.502769] [0m[33musb 1-1[0m: new full-speed USB device number 2 using ohci-pci
+[32m[    1.520935] [0m[33minput[0m: ImExPS/2 Generic Explorer Mouse as /devices/platform/i8042/serio1/input/input5
+[32m[    1.714451] [0m[33me1000 0000:00:03.0 eth0[0m: (PCI:33MHz:32-bit) 08:00:27:dc:72:cd
+[32m[    1.714465] [0m[33me1000 0000:00:03.0 eth0[0m: Intel(R) PRO/1000 Network Connection
+[32m[    1.714575] [0m[33mahci 0000:00:0d.0[0m: version 3.0
+[32m[    1.715591] [0m[33mahci 0000:00:0d.0[0m: SSS flag set, parallel bus scan disabled
+[32m[    1.715827] [0m[33mahci 0000:00:0d.0[0m: AHCI 0001.0100 32 slots 1 ports 3 Gbps 0x1 impl SATA mode
+[32m[    1.715833] [0m[33mahci 0000:00:0d.0[0m: flags: 64bit ncq stag only ccc 
+[32m[    1.717864] [0m[33me1000 0000:00:03.0 enp0s3[0m: renamed from eth0
+[32m[    1.719573] [0m[33mscsi host2[0m: ahci
+[32m[    1.719691] [0m[33mata3[0m: SATA max UDMA/133 abar m8192@0xf0806000 port 0xf0806100 irq 21
+[32m[    1.722670] [0m[33mvgdrvHeartbeatInit[0m[1m: Setting up heartbeat to trigger every 2000 milliseconds[0m
+[32m[    1.722848] [0m[33minput[0m: Unspecified device as /devices/pci0000:00/0000:00:04.0/input/input6
+[32m[    1.724849] [0m[33mvboxguest[0m[1m: misc device minor 55, IRQ 20, I/O port d020, MMIO at 00000000f0400000 (size 0x400000)[0m
+[32m[    1.724855] [0m[33mvboxguest[0m: Successfully loaded version 5.0.18_Ubuntu (interface 0x00010004)
+[32m[    1.732001] [0m[drm] VRAM 01000000
+[32m[    1.732326] [0m[33m[TTM] Zone  kernel[0m: Available graphics memory: 1301170 kiB
+[32m[    1.732329] [0m[TTM] Initializing pool allocator
+[32m[    1.732336] [0m[TTM] Initializing DMA pool allocator
+[32m[    1.733348] [0m[33mfbcon[0m: vboxdrmfb (fb0) is primary device
+[32m[    1.750675] [0m[33mConsole[0m: switching to colour frame buffer device 100x37
+[32m[    1.752996] [0m[33mvboxvideo 0000:00:02.0[0m: fb0: vboxdrmfb frame buffer device
+[32m[    1.753001] [0m[drm] Initialized vboxvideo 1.0.0 20130823 for 0000:00:02.0 on minor 0
+[32m[    1.792459] [0m[33musb 1-1[0m: New USB device found, idVendor=80ee, idProduct=0021
+[32m[    1.792472] [0m[33musb 1-1[0m: New USB device strings: Mfr=1, Product=3, SerialNumber=0
+[32m[    1.792481] [0m[33musb 1-1[0m: Product: USB Tablet
+[32m[    1.792489] [0m[33musb 1-1[0m: Manufacturer: VirtualBox
+[32m[    1.819619] [0m[33mhidraw[0m: raw HID events driver (C) Jiri Kosina
+[32m[    1.843382] [0m[33musbcore[0m: registered new interface driver usbhid
+[32m[    1.843389] [0m[33musbhid[0m: USB HID core driver
+[32m[    1.857990] [0m[33minput[0m: VirtualBox USB Tablet as /devices/pci0000:00/0000:00:06.0/usb1/1-1/1-1:1.0/0003:80EE:0021.0001/input/input7
+[32m[    1.858710] [0m[33mhid-generic 0003:80EE:0021.0001[0m: input,hidraw0: USB HID v1.10 Mouse [VirtualBox USB Tablet] on usb-0000:00:06.0-1/input0
+[32m[    2.012459] [0m[33mtsc[0m: Refined TSC clocksource calibration: 2193.618 MHz
+[32m[    2.012473] [0m[33mclocksource[0m: tsc: mask: 0xffffffffffffffff max_cycles: 0x1f9ea5fa96d, max_idle_ns: 440795241797 ns
+[32m[    2.037072] [0m[33mata3[0m: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+[32m[    2.037725] [0m[33mata3.00[0m: ATA-6: VBOX HARDDISK, 1.0, max UDMA/133
+[32m[    2.037739] [0m[33mata3.00[0m: 109051904 sectors, multi 128: LBA48 NCQ (depth 31/32)
+[32m[    2.038135] [0m[33mata3.00[0m: configured for UDMA/133
+[32m[    2.038380] [0m[33mscsi 2:0:0:0[0m: Direct-Access     ATA      VBOX HARDDISK    1.0  PQ: 0 ANSI: 5
+[32m[    2.038895] [0m[33msd 2:0:0:0[0m: [sda] 109051904 512-byte logical blocks: (55.8 GB/52.0 GiB)
+[32m[    2.038951] [0m[33msd 2:0:0:0[0m: [sda] Write Protect is off
+[32m[    2.038957] [0m[33msd 2:0:0:0[0m: [sda] Mode Sense: 00 3a 00 00
+[32m[    2.038982] [0m[33msd 2:0:0:0[0m: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+[32m[    2.039343] [0m[33msd 2:0:0:0[0m: Attached scsi generic sg1 type 0
+[32m[    2.069323] [0m[33m sda[0m: sda1 sda2 < sda5 >
+[32m[    2.069928] [0m[33msd 2:0:0:0[0m: [sda] Attached SCSI disk
+[32m[    4.384093] [0m[33mfloppy0[0m: no floppy controllers found
+[32m[    4.384215] [0mwork still pending
+[32m[    6.073651] [0m[33mrandom[0m: nonblocking pool is initialized
+[32m[    6.815631] [0m[33mEXT4-fs (sda1)[0m: mounted filesystem with ordered data mode. Opts: (null)
+[32m[    8.257080] [0m[33msystemd[1][0m: systemd 229 running in system mode. (+PAM +AUDIT +SELINUX +IMA +APPARMOR +SMACK +SYSVINIT +UTMP +LIBCRYPTSETUP +GCRYPT +GNUTLS +ACL +XZ -LZ4 +SECCOMP +BLKID +ELFUTILS +KMOD -IDN)
+[32m[    8.257167] [0m[33msystemd[1][0m: Detected virtualization oracle.
+[32m[    8.257177] [0m[33msystemd[1][0m: Detected architecture x86-64.
+[32m[    8.269706] [0m[33msystemd[1][0m: Set hostname to <pra-VirtualBox>.
+[32m[   10.133678] [0m[33msystemd[1][0m: Listening on Journal Socket.
+[32m[   10.133884] [0m[33msystemd[1][0m: Listening on /dev/initctl Compatibility Named Pipe.
+[32m[   10.133933] [0m[33msystemd[1][0m: Listening on Syslog Socket.
+[32m[   10.134009] [0m[33msystemd[1][0m: Started Forward Password Requests to Wall Directory Watch.
+[32m[   10.134032] [0m[33msystemd[1][0m: Reached target Encrypted Volumes.
+[32m[   10.134082] [0m[33msystemd[1][0m: Listening on fsck to fsckd communication Socket.
+[32m[   10.134103] [0m[33msystemd[1][0m: Reached target Remote File Systems (Pre).
+[32m[   10.134172] [0m[33msystemd[1][0m: Reached target Remote File Systems.
+[32m[   10.134397] [0m[33msystemd[1][0m: Created slice System Slice.
+[32m[   10.135284] [0m[33msystemd[1][0m: Mounting Debug File System...
+[32m[   10.136402] [0m[33msystemd[1][0m: Mounting Huge Pages File System...
+[32m[   10.137487] [0m[33msystemd[1][0m: Started Braille Device Support.
+[32m[   10.144259] [0m[33msystemd[1][0m: Starting Uncomplicated firewall...
+[32m[   10.144413] [0m[33msystemd[1][0m: Listening on Journal Socket (/dev/log).
+[32m[   10.145180] [0m[33msystemd[1][0m: Reached target User and Group Name Lookups.
+[32m[   10.145265] [0m[33msystemd[1][0m: Listening on udev Kernel Socket.
+[32m[   10.145381] [0m[33msystemd[1][0m: Listening on udev Control Socket.
+[32m[   10.145551] [0m[33msystemd[1][0m: Listening on Journal Audit Socket.
+[32m[   10.148067] [0m[33msystemd[1][0m: Starting Journal Service...
+[32m[   10.152940] [0m[33msystemd[1][0m: Starting Create list of required static device nodes for the current kernel...
+[32m[   10.153366] [0m[33msystemd[1][0m: Set up automount Arbitrary Executable File Formats File System Automount Point.
+[32m[   10.299467] [0m[33msystemd[1][0m: Created slice User and Session Slice.
+[32m[   10.299541] [0m[33msystemd[1][0m: Reached target Slices.
+[32m[   10.300977] [0m[33msystemd[1][0m: Starting Set console keymap...
+[32m[   10.537059] [0m[33msystemd[1][0m: Starting Load Kernel Modules...
+[32m[   10.538142] [0m[33msystemd[1][0m: Mounting POSIX Message Queue File System...
+[32m[   10.559258] [0m[33msystemd[1][0m: Started Create list of required static device nodes for the current kernel.
+[32m[   10.601223] [0m[33msystemd[1][0m: Starting Create Static Device Nodes in /dev...
+[32m[   10.901959] [0m[33msystemd[1][0m: Started Uncomplicated firewall.
+[32m[   10.997576] [0m[33msystemd[1][0m: Mounted POSIX Message Queue File System.
+[32m[   10.997651] [0m[33msystemd[1][0m: Mounted Debug File System.
+[32m[   10.997686] [0m[33msystemd[1][0m: Mounted Huge Pages File System.
+[32m[   11.207837] [0m[33msystemd[1][0m: Started Journal Service.
+[32m[   11.413394] [0m[33mlp[0m: driver loaded but no devices found
+[32m[   11.442336] [0m[33mppdev[0m: user-space parallel port driver
+[32m[   12.521787] [0m[33mEXT4-fs (sda1)[0m: re-mounted. Opts: errors=remount-ro
+[32m[   12.816715] [0m[33msystemd-journald[209][0m: Received request to flush runtime journal from PID 1
+[32m[   13.885569] [0m[33mpiix4_smbus 0000:00:07.0[0m[31m: SMBus base address uninitialized - upgrade BIOS or use force_addr=0xaddr
+[0m[32m[   14.805731] [0mAVX version of gcm_enc/dec engaged.
+[32m[   14.805736] [0mAES CTR mode by8 optimization enabled
+[32m[   14.951357] [0m[33msnd_intel8x0 0000:00:05.0[0m: disable (unknown or VT-d) VM optimization
+[32m[   15.179656] [0m[33mintel_rapl[0m[31m: no valid rapl domains found in package 0[0m
+[32m[   15.683405] [0mAdding 2658300k swap on /dev/sda5.  Priority:-1 extents:1 across:2658300k FS
+[32m[   15.901881] [0m[33msnd_intel8x0 0000:00:05.0[0m: white list rate for 1028:0177 is 48000
+[32m[   16.696173] [0m[33mfloppy0[0m: no floppy controllers found
+[32m[   16.917514] [0m[33maudit[0m: type=1400 audit(1486964491.304:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/lightdm/lightdm-guest-session" pid=558 comm="apparmor_parser"
+[32m[   16.917530] [0m[33maudit[0m: type=1400 audit(1486964491.304:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/lightdm/lightdm-guest-session//chromium" pid=558 comm="apparmor_parser"
+[32m[   17.027985] [0m[33maudit[0m: type=1400 audit(1486964491.412:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=559 comm="apparmor_parser"
+[32m[   17.028005] [0m[33maudit[0m: type=1400 audit(1486964491.412:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=559 comm="apparmor_parser"
+[32m[   17.028017] [0m[33maudit[0m: type=1400 audit(1486964491.412:6): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-helper" pid=559 comm="apparmor_parser"
+[32m[   17.028028] [0m[33maudit[0m: type=1400 audit(1486964491.412:7): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=559 comm="apparmor_parser"
+[32m[   17.392539] [0m[33maudit[0m: type=1400 audit(1486964491.780:8): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince" pid=560 comm="apparmor_parser"
+[32m[   17.392551] [0m[33maudit[0m: type=1400 audit(1486964491.780:9): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince//sanitized_helper" pid=560 comm="apparmor_parser"
+[32m[   17.392559] [0m[33maudit[0m: type=1400 audit(1486964491.780:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer" pid=560 comm="apparmor_parser"
+[32m[   17.392567] [0m[33maudit[0m: type=1400 audit(1486964491.780:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/evince-previewer//sanitized_helper" pid=560 comm="apparmor_parser"
+[32m[   20.537871] [0m[33mvboxsf[0m: Successfully loaded version 5.0.18_Ubuntu (interface 0x00010004)
+[32m[   25.671031] [0m[33mVBoxService 5.1.2 r108956 (verbosity[0m[1m: 0) linux.amd64 (Jul 21 2016 17:47:02) release log
+               00:00:00.000203 main     Log opened 2017-02-13T05:41:40.062398000Z[0m
+[32m[   25.671153] [0m[33m00:00:00.000408 main     OS Product[0m[1m: Linux[0m
+[32m[   25.671262] [0m[33m00:00:00.000490 main     OS Release[0m[1m: 4.4.0-62-generic[0m
+[32m[   25.671331] [0m[33m00:00:00.000595 main     OS Version[0m[1m: #83-Ubuntu SMP Wed Jan 18 14:10:15 UTC 2017[0m
+[32m[   25.671421] [0m[33m00:00:00.000663 main     Executable[0m[1m: /opt/VBoxGuestAdditions-5.1.2/sbin/VBoxService
+               00:00:00.000665 main     Process ID: 856
+               00:00:00.000667 main     Package type: LINUX_64BITS_GENERIC[0m
+[32m[   25.674304] [0m[1m00:00:00.003531 main     5.1.2 r108956 started. Verbose level = 0[0m
+[32m[   25.840477] [0m[33m00:00:00.169678 automount vbsvcAutoMountWorker[0m[1m: Shared folder 'windows7share' was mounted to '/media/sf_windows7share'[0m
+[32m[   25.875177] [0m[33mIPv6[0m: ADDRCONF(NETDEV_UP): enp0s3: link is not ready
+[32m[   25.880954] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[   55.484735] [0m[33mISO 9660 Extensions[0m: Microsoft Joliet Level 3
+[32m[   55.664531] [0m[33mISO 9660 Extensions[0m: RRIP_1991A
+[32m[  162.149234] [0m[33mdo_trap[0m[1m: 33 callbacks suppressed[0m
+[32m[  162.149243] [0m[33mtraps[0m: pool[2667] trap int3 ip:7fa1ada06a6b sp:7fa18b57f5b0 error:0
+[32m[ 1075.492208] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[ 1081.504618] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[ 1249.856953] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[ 1255.868641] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[ 1584.160416] [0m[33musb 1-2[0m: new full-speed USB device number 3 using ohci-pci
+[32m[ 1584.634588] [0m[33musb 1-2[0m: New USB device found, idVendor=067b, idProduct=2303
+[32m[ 1584.634603] [0m[33musb 1-2[0m: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[32m[ 1584.634611] [0m[33musb 1-2[0m: Product: USB 2.0 To COM Device
+[32m[ 1584.634619] [0m[33musb 1-2[0m: Manufacturer: Prolific Technology Inc.
+[32m[ 1586.454938] [0m[33musbcore[0m: registered new interface driver usbserial
+[32m[ 1586.455167] [0m[33musbcore[0m: registered new interface driver usbserial_generic
+[32m[ 1586.455229] [0m[33musbserial[0m: USB Serial support registered for generic
+[32m[ 1586.485421] [0m[33musbcore[0m: registered new interface driver pl2303
+[32m[ 1586.485743] [0m[33musbserial[0m: USB Serial support registered for pl2303
+[32m[ 1586.485759] [0m[33mpl2303 1-2:1.0[0m: pl2303 converter detected
+[32m[ 1586.572804] [0m[33musb 1-2[0m: pl2303 converter now attached to ttyUSB0
+[32m[ 1611.975099] [0m[33mpl2303 ttyUSB0[0m[31m: pl2303_get_line_request - failed: -32
+[0m[32m[ 2910.010132] [0m[33mpl2303 ttyUSB0[0m[31m: usb_serial_generic_read_bulk_callback - urb stopped: -32
+[0m[32m[ 2910.749256] [0m[33musb 1-2[0m: USB disconnect, device number 3
+[32m[ 2910.752069] [0m[33mpl2303 ttyUSB0[0m[31m: pl2303_set_control_lines - failed: -19
+[0m[32m[ 2910.752075] [0m[33mpl2303 ttyUSB0[0m[31m: error sending break = -19
+[0m[32m[ 2910.752179] [0m[33mpl2303 ttyUSB0[0m: pl2303 converter now disconnected from ttyUSB0
+[32m[ 2910.752189] [0m[33mpl2303 1-2:1.0[0m: device disconnected
+[32m[ 3599.487832] [0m[33musb 1-2[0m: new full-speed USB device number 4 using ohci-pci
+[32m[ 3599.977142] [0m[33musb 1-2[0m: New USB device found, idVendor=067b, idProduct=2303
+[32m[ 3599.977147] [0m[33musb 1-2[0m: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[32m[ 3599.977150] [0m[33musb 1-2[0m: Product: USB-Serial Controller
+[32m[ 3599.977153] [0m[33musb 1-2[0m: Manufacturer: Prolific Technology Inc.
+[32m[ 3599.983257] [0m[33mpl2303 1-2:1.0[0m: pl2303 converter detected
+[32m[ 3600.069317] [0m[33musb 1-2[0m: pl2303 converter now attached to ttyUSB0
+[32m[ 6136.274580] [0m[33musb 1-2[0m: USB disconnect, device number 4
+[32m[ 6136.274705] [0m[33mpl2303 ttyUSB0[0m: pl2303 converter now disconnected from ttyUSB0
+[32m[ 6136.274718] [0m[33mpl2303 1-2:1.0[0m: device disconnected
+[32m[ 6227.812170] [0m[33musb 1-2[0m: new full-speed USB device number 5 using ohci-pci
+[32m[ 6228.318050] [0m[33musb 1-2[0m: New USB device found, idVendor=067b, idProduct=2303
+[32m[ 6228.318053] [0m[33musb 1-2[0m: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[32m[ 6228.318055] [0m[33musb 1-2[0m: Product: USB 2.0 To COM Device
+[32m[ 6228.318057] [0m[33musb 1-2[0m: Manufacturer: Prolific Technology Inc.
+[32m[ 6228.323472] [0m[33mpl2303 1-2:1.0[0m: pl2303 converter detected
+[32m[ 6228.407438] [0m[33musb 1-2[0m: pl2303 converter now attached to ttyUSB0
+[32m[ 6252.554148] [0m[33mpl2303 ttyUSB0[0m[31m: pl2303_get_line_request - failed: -32
+[0m[32m[ 6260.892352] [0m[33mpl2303 ttyUSB0[0m[31m: error sending break = -32
+[0m[32m[ 6503.449769] [0m[33musb 1-2[0m: USB disconnect, device number 5
+[32m[ 6503.449889] [0m[33mpl2303 ttyUSB0[0m: pl2303 converter now disconnected from ttyUSB0
+[32m[ 6503.449902] [0m[33mpl2303 1-2:1.0[0m: device disconnected
+[32m[ 7195.760549] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[ 7201.769749] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[ 7219.796339] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[ 7223.802444] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[11460.148321] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[11466.182947] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[11476.210270] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[11476.210307] [0m[33me1000 0000:00:03.0 enp0s3[0m[31m: Reset adapter
+[0m[32m[11482.290866] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[11801.370019] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[11807.381412] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[11815.392580] [0m[33me1000[0m: enp0s3 NIC Link is Down
+[32m[11821.401939] [0m[33me1000[0m: enp0s3 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[32m[12924.426216] [0m[33musb 1-2[0m: new full-speed USB device number 6 using ohci-pci
+[32m[12924.735685] [0m[33musb 1-2[0m: New USB device found, idVendor=067b, idProduct=2303
+[32m[12924.735690] [0m[33musb 1-2[0m: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[32m[12924.735693] [0m[33musb 1-2[0m: Product: USB-Serial Controller
+[32m[12924.735695] [0m[33musb 1-2[0m: Manufacturer: Prolific Technology Inc.
+[32m[12924.740280] [0m[33mpl2303 1-2:1.0[0m: pl2303 converter detected
+[32m[12924.820615] [0m[33musb 1-2[0m: pl2303 converter now attached to ttyUSB0
+[32m[16337.646152] [0m[33musb 1-2[0m: USB disconnect, device number 6
+[32m[16337.649614] [0m[33mpl2303 ttyUSB0[0m[31m: pl2303_set_control_lines - failed: -19
+[0m[32m[16337.649619] [0m[33mpl2303 ttyUSB0[0m[31m: error sending break = -19
+[0m[32m[16337.649682] [0m[33mpl2303 ttyUSB0[0m: pl2303 converter now disconnected from ttyUSB0
+[32m[16337.649688] [0m[33mpl2303 1-2:1.0[0m: device disconnected
+[32m[16352.500423] [0m[33musb 1-2[0m: new full-speed USB device number 7 using ohci-pci
+[32m[16353.008358] [0m[33musb 1-2[0m: New USB device found, idVendor=067b, idProduct=2303
+[32m[16353.008361] [0m[33musb 1-2[0m: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[32m[16353.008363] [0m[33musb 1-2[0m: Product: USB-Serial Controller
+[32m[16353.008365] [0m[33musb 1-2[0m: Manufacturer: Prolific Technology Inc.
+[32m[16353.014313] [0m[33mpl2303 1-2:1.0[0m: pl2303 converter detected
+[32m[16353.100443] [0m[33musb 1-2[0m: pl2303 convert

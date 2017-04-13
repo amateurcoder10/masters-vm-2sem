@@ -1,0 +1,19 @@
+Summary of Experiences:Assignment 1
+
+Experience:
+
+Initially,the idea of writing a program to read in another program which would then execute was a litle hard to adjust to--it seemed like a circular argument.Once the idea attained clarity,the rest of the assignmnet was a piece of cake.
+
+What helped alleviate the complexity of evm was the gradual transition from avm to bvm and so on.Having worked with the simpler machines,most of the code was familiar and less intimidating than at first glance.Also,the indirect addressing enabled by the ATP and PUT instructions reduced the effort in writing code.
+
+On the whole,the assignment was an eye-opener as to the concept of a bootstrap loader--how machines evolved and necessitated the use of one and also how complex the proposition must have seemed to the pioneers who had to implement this.
+
+Lessons Learnt:
+
+Beneath the abstractions provided to us,it's all just numbers:While generating the arguments corresponding to the instuctions,one miscalcuated number was sufficient to cause the whole thing to erupt into chaos.Debugging this taught me to appreciate the convenient abstactions we are provided with while simultaneously recoginizing the difficulty in writing code this way.
+
+The nuances and subtleties matter a lot:While trying to redirect input from a file,I overlooked the isatty(0) in the code.After a few minutes, delving back into the code made me realise what was wrong and fix it.
+
+Importance of assertions:In the earlier mistake of a miscalculated number,it was this that made it easier to debug.If not for this,the code would have kept running without ever throwing up an error and debugging would mean reading and decoding every single number before the error could be pinpointed.
+
+Prashanthi S.K-MT2016520

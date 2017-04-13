@@ -1,0 +1,5 @@
+all:kirk spock
+kirk:kirk.c
+	gcc kirk.c -o kirk
+spock:spoke.c
+	gcc spoke.c -o spock
